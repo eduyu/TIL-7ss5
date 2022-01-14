@@ -1,7 +1,6 @@
-secret.txt
 
-# Created by https://www.toptal.com/developers/gitignore/api/windows,python,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,python,visualstudiocode
+secret.txt
+python/secret.txt
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
